@@ -21,7 +21,7 @@ In this exercise we will learn how to use **Cluster Connect** and **GitHub Actio
 
 ## Implementation steps
 
-The implementation steps includes several hands-on activities which are elaborated here in my [Microsoft Tech Community article][tech-community] and also in my [github doc file][github-doc-file]
+The implementation steps includes several hands-on activities which are elaborated here in my [Microsoft Tech Community article][tech-community] and also in my [github doc file][github-doc-file].
 
 ## Conclusion
 

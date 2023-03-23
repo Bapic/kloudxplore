@@ -5,8 +5,6 @@ date:   2022-10-20 11:38:18 +0000
 categories: Azure hybrid & multicloud
 ---
 
-# Capabilities you need to succeed with your multi-cloud and edge strategy
-
 ![Alt text](/kloudxplore/images/multicloudimg0001.jpg)
 
 Several organizations all over the world are adopting multi-cloud and edge strategy, to drive innovation and digital transformation. As you look closely, the below are some of the areas that they are trying to address:
