@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deploy apps to Azure-Arc enabled Kubernetes cluster using 'Cluster Connect' and 'GitHub Actions'"
-date:   2023-02-15 11:38:18 +0000
+date:   2022-12-10 11:38:18 +0000
 categories: Azure hybrid and multicloud
 ---
 
